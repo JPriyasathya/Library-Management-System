@@ -1,5 +1,5 @@
 ﻿# 📚 Library Management System (Console-Based Java Project)
-✅ Project Overview
+**Project Overview**
 This is a simple Library Management System built using Java and Object-Oriented Programming (OOPS) concepts.
 
 The system allows users to:
@@ -13,7 +13,7 @@ Return borrowed books ✅
 It runs entirely through the console, making it beginner-friendly for understanding OOPS principles and basic data structures in Java.
 
 
-✅ Features
+**Features**
 
 📌 View Books — Displays all books with their status (Available / Borrowed)
 
@@ -23,7 +23,8 @@ It runs entirely through the console, making it beginner-friendly for understand
 
 🧹 Simple and clean console interface
 
-✅ OOPS Concepts Used
+
+**OOPS Concepts Used**
 
 ✅ Encapsulation — Book class fields are private with getters and methods
 
@@ -31,7 +32,8 @@ It runs entirely through the console, making it beginner-friendly for understand
 
 ✅ Class Interaction — Main class interacts with Library class to manage books
 
-✅ Technologies Used
+
+**Technologies Used**
 
 🟣 Java
 
