@@ -1,6 +1,7 @@
 ﻿# 📚 Library Management System (Console-Based Java Project)
 ✅ Project Overview
 This is a simple Library Management System built using Java and Object-Oriented Programming (OOPS) concepts.
+
 The system allows users to:
 
 View available books 📖
@@ -11,7 +12,9 @@ Return borrowed books ✅
 
 It runs entirely through the console, making it beginner-friendly for understanding OOPS principles and basic data structures in Java.
 
+
 ✅ Features
+
 📌 View Books — Displays all books with their status (Available / Borrowed)
 
 📌 Borrow Book — Borrow a book by entering its title
@@ -21,6 +24,7 @@ It runs entirely through the console, making it beginner-friendly for understand
 🧹 Simple and clean console interface
 
 ✅ OOPS Concepts Used
+
 ✅ Encapsulation — Book class fields are private with getters and methods
 
 ✅ Abstraction — Library class hides internal logic from the main program
@@ -28,32 +32,9 @@ It runs entirely through the console, making it beginner-friendly for understand
 ✅ Class Interaction — Main class interacts with Library class to manage books
 
 ✅ Technologies Used
+
 🟣 Java
 
 🟢 ArrayList Data Structure
 
 🔵 Scanner (for console input)
-
-✅ How to Run
-1. Clone this Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
-2. Compile the Code
-bash
-Copy
-Edit
-javac *.java
-3. Run the Program
-bash
-Copy
-Edit
-java Main
-4. (Optional) Create JAR File
-bash
-Copy
-Edit
-jar cfe library.jar Main *.class
-java -jar library.jar
